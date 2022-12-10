@@ -6,3 +6,6 @@ An AI that predicts whether online shopping customers will complete a purchase, 
 
 `$ python shopping.py shopping.csv`
 
+
+
+![6](https://user-images.githubusercontent.com/96381612/206855987-80952c64-c28e-4068-9ac8-b4132a9cb41d.png)
